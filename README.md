@@ -6,7 +6,7 @@ This is a simple and beautiful **Weather App** built using **HTML**, **CSS**, an
 
 ## 🔗 Live Demo
 
-🌍 [View App on Vercel] https://weather-app-tau-indol-29.vercel.app/
+🌍 [View App on Vercel](https://weather-app-tau-indol-29.vercel.app/)
 
 ---
 
