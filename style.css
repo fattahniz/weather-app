@@ -4,9 +4,13 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
+
 body{
     background: #222;
+    font-family: 'Roboto', sans-serif;
+
 }
+
 .card{
     width: 90%;
     max-width: 470px;
@@ -17,12 +21,14 @@ body{
     padding: 40px 35px;
     text-align: center;   
 }
+
 .search{
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
 .search input{
     border: 0;
     outline: 0;
@@ -35,6 +41,7 @@ body{
     margin-right: 16px;
     font-size: 18px;
 }
+
 .search button{
     border: 0;
     outline: 0;
@@ -44,23 +51,28 @@ body{
     height: 60px;
     cursor: pointer;
 }
+
 .search button img{
     width: 16px;
 }
+
 .weather-icon{
     width: 170px;
     margin-top: 30;
 
 }
+
 .weather h1{
     font-size: 80px;
     font-weight: 500;
 }
+
 .weather h2{
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
 }
+
 .details{
     display: flex;
     align-items: center;
@@ -68,26 +80,102 @@ body{
     padding: 0 20px;
     margin-top: 50px;
 }
+
 .col{
     display: flex;
     align-items: center;
     text-align: left;
 }
+
 .com img{
     width: 40px;
     margin-right: 10px;
 }
+
 .humidity, .wind{
     font-size: 28px;
     margin-top: -6px;
 }
+
 .weather{
     display: none;
 }
+
 .error{
     text-align: left;
     margin-left: 10px;
     font-size: 14px;
     margin-top: 10px;
     display: none;
+}
+
+
+@media screen and (max-width: 480px) {
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        width: 95%;
+        padding: 15px;
+        margin: auto;
+    }
+
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .search-box input {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .search-box button {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        margin-top: 8px;
+    }
+
+    .weather-info {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .weather-info img {
+        width: 100px;
+        height: auto;
+    }
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .container {
+        width: 80%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .search-box input,
+    .search-box button {
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    .weather-info img {
+        width: 120px;
+    }
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        width: 70%;
+    }
 }
