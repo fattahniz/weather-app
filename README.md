@@ -64,7 +64,7 @@ cd weather-app
 🙋‍♂️ Author
 Abdulfattah Nizamani
 📍 Based in Islamabad
-🔗 LinkedIn Profile
+🔗 [LinkedIn](https://linkedin.com/in/fattahniz)
 
 🏷️ Hashtags / Tags
 #JavaScript #WeatherApp #Frontend #APIIntegration #HTML #CSS
