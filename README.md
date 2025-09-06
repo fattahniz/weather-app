@@ -74,6 +74,5 @@ Abdulfattah Nizamani
 If you find this project helpful or inspiring, give it a ⭐ on GitHub!
 
 
----
 
 Let me know if you want to generate a **preview image**, add the **API setup instructions**, or improve **mobile responsiveness**.
