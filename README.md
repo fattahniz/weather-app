@@ -62,9 +62,9 @@ cd weather-app
 🌐 Multi-language support
 
 🙋‍♂️ Author
-Abdulfattah Nizamani
+**Abdulfattah Nizamani**
 📍 Based in Islamabad
-🔗 [LinkedIn](https://linkedin.com/in/fattahniz)
+🔗 **[LinkedIn](https://linkedin.com/in/fattahniz)**
 
 
 
