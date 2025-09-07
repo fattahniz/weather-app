@@ -50,7 +50,7 @@ weather-app/
 ```bash
 git clone https://github.com/abdulfattahnizamani/weather-app.git
 cd weather-app
-
+```
 
 🧠 Future Improvements
 🗺️ Use geolocation to get user's weather
@@ -66,9 +66,7 @@ Abdulfattah Nizamani
 📍 Based in Islamabad
 🔗 [LinkedIn](https://linkedin.com/in/fattahniz)
 
-🏷️ Hashtags / Tags
-#JavaScript #WeatherApp #Frontend #APIIntegration #HTML #CSS
-#InternshipReady #IslamabadDevelopers #OpenToWork #VercelDeployment #LiveWeather
+
 
 ⭐ Show Some Love
 If you find this project helpful or inspiring, give it a ⭐ on GitHub!
