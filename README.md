@@ -16,7 +16,7 @@ This is a simple and beautiful **Weather App** built using **HTML**, **CSS**, an
 
 **Frontend:** HTML, CSS, JavaScript (ES6+)
 
-**API:** OpenWeatherMap API
+**API:** OpenWeatherMap
 
 **Deployment:** Vercel
 
