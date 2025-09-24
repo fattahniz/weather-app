@@ -2,16 +2,6 @@
 
 This is a simple and beautiful **Weather App** built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using a public API and displays temperature, location, weather condition, and more.
 
----
-
-## 🔗 Live Demo
-
-🌍 [View App on Vercel](https://weather-app-tau-indol-29.vercel.app/)
-
----
-
-
-
 ## 💡 Features
 
 - 🔍 Search weather by city name
@@ -22,55 +12,52 @@ This is a simple and beautiful **Weather App** built using **HTML**, **CSS**, an
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- **Weather API** (e.g., OpenWeatherMap)
+**Frontend:** HTML, CSS, JavaScript (ES6+)
 
----
+**API:** OpenWeatherMap API
 
-## 📂 Project Structure
-
-weather-app/
-│
-├── index.html
-├── style.css
-├── script.js
-└── images/
-└── (weather icons or background)
-
-
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-
+## Installation
+1. Clone the repo
 ```bash
-git clone https://github.com/abdulfattahnizamani/weather-app.git
+   git clone https://github.com/fattahniz/weather-app.git
 cd weather-app
 ```
 
-🧠 Future Improvements
-🗺️ Use geolocation to get user's weather
+2. Run locally
+Open index.html directly in your browser or use a Live Server extension in VS Code.
 
-📅 Show weekly forecast
+## 📂 Project Structure
+```css
+project/
+│
+├── index.html
+├── style.css
+├── main.js
+└── images/
+└── (weather icons or background)
+```
 
-🌓 Dark/light theme switch
+## 🧠 Future Improvements
+1. 🗺️ Use geolocation to get user's weather
 
-🌐 Multi-language support
+2. 📅 Show weekly forecast
 
-🙋‍♂️ Author
-**Abdulfattah Nizamani**
-📍 Based in Islamabad
-🔗 **[LinkedIn](https://linkedin.com/in/fattahniz)**
+3. 🌓 Dark/light theme switch
 
+4. 🌐 Multi-language support
 
+## 🤝 Contributing
+Fork the repo
 
-⭐ Show Some Love
+1. Create a new branch (feature/my-feature)
+2. Commit changes
+3. Push branch and create a Pull Request
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE) – see the LICENSE
+file for details.
+
+## ⭐ Show Some Love
 If you find this project helpful or inspiring, give it a ⭐ on GitHub!
-
-
-
-Let me know if you want to generate a **preview image**, add the **API setup instructions**, or improve **mobile responsiveness**.
