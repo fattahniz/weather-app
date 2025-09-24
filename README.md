@@ -18,6 +18,8 @@ This is a simple and beautiful **Weather App** built using **HTML**, **CSS**, an
 
 **API:** OpenWeatherMap API
 
+**Deployment:** Vercel
+
 ## Installation
 1. Clone the repo
 ```bash
